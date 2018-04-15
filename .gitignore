@@ -57,3 +57,8 @@ typings/
 # dotenv environment variables file
 .env
 
+.idea/checkstyle-idea.xml
+.idea/food-siren-order.iml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
